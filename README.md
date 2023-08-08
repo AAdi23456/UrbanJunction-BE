@@ -20,7 +20,7 @@ This project provides APIs for user authentication, authorization, managing prod
 3. Set up the database connection and environment variables.
 
 ## Routes
-## deployedlink-https://colorful-helmet-slug.cyclic.app/
+## deployedlink-[https://colorful-helmet-slug.cyclic.app/](https://gifted-tights-yak.cyclic.app/)
 ### Authorization Routes
 
 #### POST /auth/signup
