@@ -8,7 +8,7 @@ This project provides APIs for user authentication, authorization, managing prod
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone  https://github.com/AAdi23456/UrbanJunction-BE.git
    ```
 
 2. Install dependencies:
